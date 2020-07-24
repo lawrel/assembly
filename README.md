@@ -1,2 +1,2 @@
 # assembly
-assembly code for basic functions like matrices, fizzbuzz, etc
+assembly code for basic functions like matrices, fizzbuzz, fibonacci, adding, etc
